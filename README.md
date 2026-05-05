@@ -524,10 +524,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 | Platform | Link |
 |----------|------|
-| **Email** | your.email@example.com |
-| **GitHub** | [@yourusername](https://github.com/yourusername) |
-| **LinkedIn** | [Your Profile](https://linkedin.com/in/yourprofile) |
-| **Twitter** | [@yourhandle](https://twitter.com/yourhandle) |
+| **Email** | pateldaksh1903@gmail.com |
+| **GitHub** | [@Dakshpavtel](https://github.com/Daxpavtel) |
+| **LinkedIn** | [dakshpatel1996](https://www.linkedin.com/in/dakshpatel1996/) |
 
 ---
 
